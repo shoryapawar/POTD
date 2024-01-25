@@ -1,2 +1,2 @@
-# POTD_GFG
-POTD Solution of GFG 
+# POTD_GFG AND Leetcode
+POTD Solution of GFG and Leetcode
